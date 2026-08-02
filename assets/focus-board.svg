@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 420">
+  <title id="title">Gabriel Barcelos engineering focus board</title>
+  <desc id="desc">Main products and delivery principles.</desc>
+  <rect width="1200" height="420" rx="18" fill="#F8FAFC"/>
+  <rect x="24" y="24" width="1152" height="372" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="64" y="76" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Produtos, sistemas e criterio de entrega</text>
+  <text x="64" y="108" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16">Projetos com foco em utilidade real, manutencao, seguranca, clareza operacional e evolucao continua.</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="64" y="144" width="250" height="184" rx="12" fill="#ECFEFF" stroke="#06B6D4"/>
+      <text x="88" y="178" fill="#0E7490" font-size="22" font-weight="800">Seven</text>
+      <text x="88" y="212" fill="#164E63" font-size="15">Linguagem propria .sv com</text>
+      <text x="88" y="234" fill="#164E63" font-size="15">compilador, runtime, docs,</text>
+      <text x="88" y="256" fill="#164E63" font-size="15">biblioteca padrao e identidade.</text>
+      <text x="88" y="294" fill="#0E7490" font-size="14" font-weight="700">github.com/gabriell211/Seven</text>
+    </g>
+    <g>
+      <rect x="342" y="144" width="250" height="184" rx="12" fill="#F0FDF4" stroke="#22C55E"/>
+      <text x="366" y="178" fill="#15803D" font-size="22" font-weight="800">Star Reader</text>
+      <text x="366" y="212" fill="#14532D" font-size="15">PDF desktop local-first</text>
+      <text x="366" y="234" fill="#14532D" font-size="15">com OCR, assinaturas,</text>
+      <text x="366" y="256" fill="#14532D" font-size="15">formularios e revisao.</text>
+      <text x="366" y="294" fill="#15803D" font-size="14" font-weight="700">Ferramenta profissional</text>
+    </g>
+    <g>
+      <rect x="620" y="144" width="250" height="184" rx="12" fill="#FFF7ED" stroke="#F97316"/>
+      <text x="644" y="178" fill="#C2410C" font-size="22" font-weight="800">Aura</text>
+      <text x="644" y="212" fill="#7C2D12" font-size="15">ERP MPS para controle,</text>
+      <text x="644" y="234" fill="#7C2D12" font-size="15">gestao de processos e</text>
+      <text x="644" y="256" fill="#7C2D12" font-size="15">rotinas operacionais.</text>
+      <text x="644" y="294" fill="#C2410C" font-size="14" font-weight="700">Sistema de gestao</text>
+    </g>
+    <g>
+      <rect x="898" y="144" width="238" height="184" rx="12" fill="#EFF6FF" stroke="#2563EB"/>
+      <text x="922" y="178" fill="#1D4ED8" font-size="22" font-weight="800">Operacoes</text>
+      <text x="922" y="212" fill="#1E3A8A" font-size="15">Automacao, integracoes,</text>
+      <text x="922" y="234" fill="#1E3A8A" font-size="15">produtos web, atendimento</text>
+      <text x="922" y="256" fill="#1E3A8A" font-size="15">e sistemas empresariais.</text>
+      <text x="922" y="294" fill="#1D4ED8" font-size="14" font-weight="700">Software util em campo</text>
+    </g>
+  </g>
+  <rect x="64" y="354" width="1072" height="10" rx="5" fill="#0F172A"/>
+  <rect x="64" y="354" width="310" height="10" rx="5" fill="#38BDF8"/>
+  <rect x="374" y="354" width="290" height="10" rx="5" fill="#22C55E"/>
+  <rect x="664" y="354" width="236" height="10" rx="5" fill="#F97316"/>
+  <rect x="900" y="354" width="236" height="10" rx="5" fill="#2563EB"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 360">
+  <title id="title">Gabriel Barcelos profile header</title>
+  <desc id="desc">Professional GitHub profile header for Gabriel Barcelos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08111F"/>
+      <stop offset="42%" stop-color="#0F2A44"/>
+      <stop offset="100%" stop-color="#10281D"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M0 286 C170 250 285 330 454 288 C640 242 758 220 927 264 C1037 292 1124 285 1200 254 L1200 360 L0 360 Z" fill="#22C55E" opacity="0.16"/>
+  <path d="M0 318 C195 265 348 335 552 294 C710 262 862 262 1018 298 C1098 316 1156 311 1200 292 L1200 360 L0 360 Z" fill="#38BDF8" opacity="0.18"/>
+  <rect x="58" y="54" width="1084" height="252" rx="22" fill="#020617" opacity="0.34" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="84" y="78" width="112" height="112" rx="24" fill="#0B1220" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="2"/>
+  <path d="M130 102 H179 L145 173 H102 L130 102 Z" fill="#38BDF8"/>
+  <path d="M149 102 H196 L156 250 H112 L139 190 H179 L149 102 Z" fill="#22C55E" opacity="0.92"/>
+  <text x="224" y="136" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800">Gabriel Barcelos</text>
+  <text x="226" y="178" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Software Engineer | Product Builder | Automation and Business Systems</text>
+  <text x="226" y="218" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Full stack, desktop apps, local-first systems, ERP, PDF tools and the Seven .sv language.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="226" y="248" width="150" height="34" rx="17" fill="#38BDF8" opacity="0.18" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="250" y="270" fill="#E0F2FE">gabriell211</text>
+    <rect x="394" y="248" width="132" height="34" rx="17" fill="#22C55E" opacity="0.18" stroke="#22C55E" stroke-opacity="0.55"/>
+    <text x="422" y="270" fill="#DCFCE7">Seven .sv</text>
+    <rect x="544" y="248" width="190" height="34" rx="17" fill="#F8FAFC" opacity="0.12" stroke="#F8FAFC" stroke-opacity="0.35"/>
+    <text x="569" y="270" fill="#F8FAFC">Enterprise systems</text>
+  </g>
+  <rect x="58" y="318" width="1084" height="6" rx="3" fill="url(#edge)"/>
+</svg>
