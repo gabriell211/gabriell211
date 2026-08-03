@@ -9,6 +9,8 @@
   &nbsp;|&nbsp;
   <a href="https://github.com/gabriell211/Seven">Seven Language</a>
   &nbsp;|&nbsp;
+  <a href="https://github.com/gabriell211/Seven/blob/main/docs/references.md">Seven References</a>
+  &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-barcelos-6a3979407">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://www.instagram.com/g4b_seo">Instagram</a>
