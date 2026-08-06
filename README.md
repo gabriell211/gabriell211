@@ -30,7 +30,7 @@ Diferencial        Entender o problema de negocio antes de escrever codigo
 
 ## Agora
 
-- Criando a **Seven**, uma linguagem de programacao propria com extensao `.sev` e compilador `seven`.
+- Evoluindo a **Seven**, uma linguagem de programacao propria com extensao `.sev` e compilador `seven`.
 - Evoluindo o **Star Reader**, um leitor/editor PDF local-first para uso profissional.
 - Construindo sistemas para operacoes reais: atendimento, gestao, vendas, automacao e controle.
 - Transformando processos manuais em produtos digitais mais simples, seguros e sustentaveis.
