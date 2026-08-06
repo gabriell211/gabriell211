@@ -30,7 +30,7 @@ Diferencial        Entender o problema de negocio antes de escrever codigo
 
 ## Agora
 
-- Criando a **Seven**, uma linguagem de programacao propria com extensao `.sv` e compilador `seven`.
+- Criando a **Seven**, uma linguagem de programacao propria com extensao `.sev` e compilador `seven`.
 - Evoluindo o **Star Reader**, um leitor/editor PDF local-first para uso profissional.
 - Construindo sistemas para operacoes reais: atendimento, gestao, vendas, automacao e controle.
 - Transformando processos manuais em produtos digitais mais simples, seguros e sustentaveis.
@@ -45,7 +45,7 @@ Diferencial        Entender o problema de negocio antes de escrever codigo
 
 | Projeto | Papel | Resultado |
 |---|---|---|
-| [Seven](https://github.com/gabriell211/Seven) | Criador da linguagem `.sv` e do compilador `seven` | Fundacao de linguagem, biblioteca padrao, runtime, docs, exemplos e identidade oficial |
+| [Seven](https://github.com/gabriell211/Seven) | Criador da linguagem `.sev` e do compilador `seven` | Fundacao de linguagem, biblioteca padrao, runtime, docs, exemplos e identidade oficial |
 | [Star Reader](https://github.com/gabriell211/star-reader) | Produto desktop local-first para PDF | OCR, assinaturas, formularios, anotacoes, organizacao de paginas e revisao |
 | [Aura](https://github.com/gabriell211/Aura) | Sistema ERP MPS | Controle operacional e gestao de processos |
 | [Agent-Mps](https://github.com/gabriell211/Agent-Mps) | Automacao operacional | Suporte para operacoes MPS e rotinas de produtividade |
