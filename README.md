@@ -1,98 +1,59 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Gabriel Barcelos — perfil futurista com circuitos, efeitos neon e animações" />
+  <img src="./assets/banner-gabriel.svg" width="100%" alt="Sênior Gabriel Barcelos — Distinguished Engineer. Animação roxa das linguagens C, C++, C#, Python, JavaScript, TypeScript, PHP e Rust até a Seven." />
+
+  <p><strong>Engenharia de software · Arquitetura de sistemas · Infraestrutura · Produtos digitais</strong></p>
 
   <p>
-    <a href="https://portif-lio-api-server-kappa.vercel.app">Portfólio</a> ·
+    <a href="https://gabriel-barcelos.help">Portfólio</a> ·
     <a href="https://sevenstarstechnology.com.br">Seven Stars Technology</a> ·
-    <a href="https://www.linkedin.com/in/gabriel-barcelos-6a3979407">LinkedIn</a> ·
-    <a href="https://www.instagram.com/g4b_seo">Instagram</a>
+    <a href="https://www.linkedin.com/in/gabriel-barcelos-6a3979407">LinkedIn</a>
   </p>
-
-  <strong>SOFTWARE ENGINEER • PRODUCT BUILDER • AUTOMATION</strong>
-  <p><sub>Desenvolvendo o que vem depois — com arquitetura, propósito e execução.</sub></p>
 </div>
 
 ---
 
-## 01 // IDENTIDADE DIGITAL
+## Sobre mim
 
-~~~text
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                               ║
-║  NAME       Gabriel Barcelos                             ║
-║  USER       @gabriell211                                 ║
-║  ROLE       Software Engineer / Product Builder          ║
-║  FOCUS      Full Stack · Desktop · Automação · Sistemas  ║
-║  APPROACH   Segurança · Performance · Escalabilidade      ║
-╚══════════════════════════════════════════════════════════╝
-~~~
+Sou **Gabriel Barcelos**, `gabriell211`, desenvolvedor dedicado à construção de sistemas, aplicações e ferramentas para problemas reais. Trabalho entre **frontend, backend, desktop e infraestrutura**, com atenção especial à arquitetura, segurança, desempenho e experiência de uso.
 
-Transformo necessidades reais em **produtos digitais, integrações e sistemas confiáveis**. Atuo da arquitetura à distribuição: da experiência de uso ao backend, da infraestrutura à automação de processos.
+Crio soluções para automação, redes, gestão empresarial e documentos. Também desenvolvo a **Seven**, minha própria linguagem de programação, com extensão `.sev`.
 
-Meu foco não é apenas fazer o código funcionar. É construir software que seja **simples de operar, seguro de manter e preparado para crescer**.
+## Tecnologias
 
-## 02 // TECH UNIVERSE
+**Linguagens:** PHP · Rust · TypeScript · JavaScript · Python · C · C++ · C# · SQL
 
-<div align="center">
-  <img src="./assets/stack-map.svg" width="100%" alt="Mapa tecnológico animado: frontend, backend, desktop, dados, infraestrutura e engenharia" />
-</div>
+**Desenvolvimento:** Laravel · React · Next.js · React Native · Tauri · Flutter
 
-<p align="center">
-  <code>REACT</code> · <code>NEXT.JS</code> · <code>TYPESCRIPT</code> · <code>LARAVEL</code> · <code>RUST</code> · <code>TAURI</code> · <code>POSTGRESQL</code> · <code>CI/CD</code>
-</p>
+**Dados e infraestrutura:** PostgreSQL · MySQL · SQLite · Redis · Linux · GitHub Actions · APIs REST
 
-**Princípios de engenharia:** Clean Architecture, SOLID, tipagem forte, testes automatizados, observabilidade, controle de acesso, otimização de consultas e interfaces acessíveis.
+## Projetos selecionados
 
-## 03 // PROJECT GALAXY
+### [Seven — Linguagem de programação](https://github.com/gabriell211/Seven)
+Linguagem autoral com arquivos `.sev`, compilador `seven`, runtime, biblioteca padrão e toolchain. O repositório documenta builds para Windows, Linux, SVBC e web.
 
-<div align="center">
-  <img src="./assets/focus-board.svg" width="100%" alt="Quatro projetos em destaque com painéis futuristas animados" />
-</div>
+### [Seven Network Manager](https://github.com/gabriell211/Seven-Network-Manager)
+Plataforma para gerenciamento de infraestrutura de rede, com frontend **Next.js**, plano de controle **Rust/Axum** e runtime local headless. Fundação arquitetural em evolução para inventário, IPAM, descoberta e telemetria.
 
-| Projeto | Missão | Área |
-| :--- | :--- | :--- |
-| **[Seven](https://github.com/gabriell211/Seven)** | Desenvolvimento de uma linguagem própria, compilador, runtime, documentação e ferramentas. | Linguagens &amp; tooling |
-| **[Star Reader](https://github.com/gabriell211/star-reader)** | Leitura e edição profissional de PDF em uma experiência desktop local-first. | Desktop &amp; documentos |
-| **[Aura](https://github.com/gabriell211/Aura)** | Gestão de operações e processos empresariais em ambiente MPS. | ERP &amp; operações |
-| **[Agent-Mps](https://github.com/gabriell211/Agent-Mps)** | Integrações e automações para rotinas de operações MPS. | Automação &amp; integração |
-| **[vertex](https://github.com/gabriell211/vertex)** | Base para construção e evolução de produtos web modernos. | Web &amp; arquitetura |
+### [HYDRA Network Control](https://github.com/gabriell211/Mikrotk-Painel)
+Painel de administração MikroTik RouterOS com funções de backend para isolar credenciais do navegador. Abrange visão geral, DHCP, ARP, interfaces, VLANs, firewall e configuração de SMTP.
 
-> **Construir para uso real.** Uma interface bonita importa, mas consistência, estabilidade, manutenção e evolução importam tanto quanto.
+### [Aura ERP MPS](https://github.com/gabriell211/Aura)
+ERP SaaS multi-tenant para outsourcing de impressão, construído com **Laravel 12**. Inclui base de clientes, contratos, equipamentos, contadores e processos de faturamento e atendimento técnico.
 
-## 04 // ENGINEERING PROTOCOL
+### [Seven Reader Mobile](https://github.com/gabriell211/Seven-Reader-mobile)
+Aplicativo para Android e iOS baseado em **Flutter**, com foco em leitura e organização local-first de documentos PDF. Complementa o trabalho no Seven Reader desktop, que está em reconstrução.
 
-~~~text
-[01] DISCOVER     → Entender a operação e os problemas reais
-[02] ARCHITECT   → Definir limites, contratos e responsabilidades
-[03] BUILD       → Implementar com legibilidade e segurança
-[04] VALIDATE    → Testes, revisão, build e casos de exceção
-[05] SHIP        → Distribuir com rastreabilidade e controle
-[06] EVOLVE      → Medir, corrigir e melhorar continuamente
-~~~
+### [Seven Code](https://github.com/gabriell211/Seven-code)
+Projeto de editor multiplataforma baseado em **Code - OSS**, com marca própria. As integrações e a homologação completa ainda estão em desenvolvimento.
 
-<details>
-<summary><strong>▸ Explorar minha forma de trabalhar</strong></summary>
+### [FiveM Map Forge](https://github.com/gabriell211/fivem-maps)
+Pipeline de criação de cenários para FiveM com descrição em linguagem natural, preview 3D e exportação utilizando Blender e Sollumz.
 
-- **Backend:** regras de negócio isoladas, APIs previsíveis, autenticação, autorização e consultas eficientes.
-- **Frontend:** componentes acessíveis, estados bem definidos, responsividade e integração consistente.
-- **Desktop & infraestrutura:** distribuição, compatibilidade, segurança operacional e experiência local-first.
-- **Entrega:** versionamento, revisão, CI, testes e cuidado com regressões.
+## Como trabalho
 
-</details>
-
-## 05 // OPEN CHANNEL
+Da modelagem à entrega, priorizo **separação de responsabilidades**, contratos claros, proteção de dados, testes e manutenção sustentável. Funcionalidades em desenvolvimento são identificadas como tal: uma interface ou um build bem-sucedido não substitui homologação real.
 
 <div align="center">
-  <p>
-    <a href="https://gabriel-barcelos.help">Website</a> ·
-    <a href="https://sevenstarstechnology.com.br">Empresa</a> ·
-    <a href="https://github.com/gabriell211/Seven">Seven Language</a> ·
-    <a href="https://github.com/gabriell211/Seven/blob/main/docs/references.md">Referências técnicas</a>
-  </p>
-
+  <p><strong>Build with purpose. Engineer for the long term.</strong></p>
   <a href="https://github.com/gabriell211">github.com/gabriell211</a>
-
-  <img src="./assets/profile-footer.svg" width="100%" alt="Rodapé neon animado: Build the next version of what's possible" />
 </div>
-
-<sub>Visualizações em SVG animado hospedadas neste repositório. A animação respeita a preferência de movimento reduzido do dispositivo.</sub>
