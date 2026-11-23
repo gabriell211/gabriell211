@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 150 1280 550" role="img" aria-labelledby="title desc">
-<title id="title">Sênior Gabriel Barcelos — Distinguished Engineer</title>
+<title id="title"> Gabriel Barcelos — Distinguished Engineer</title>
 <desc id="desc">Banner roxo com C, C++, C#, Python, JavaScript, TypeScript, PHP, Rust e Seven caindo em sequência e alinhando-se lado a lado. Adaptado do projeto de banner fornecido por Gabriel Barcelos.</desc>
 <defs>
   <radialGradient id="halo"><stop offset="0" stop-color="#a855f7" stop-opacity=".38"/><stop offset=".75" stop-color="#7c3aed" stop-opacity=".07"/><stop offset="1" stop-color="#0a0612" stop-opacity="0"/></radialGradient>
