@@ -1,47 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 420">
-  <title id="title">Gabriel Barcelos engineering focus board</title>
-  <desc id="desc">Main products and delivery principles.</desc>
-  <rect width="1200" height="420" rx="18" fill="#F8FAFC"/>
-  <rect x="24" y="24" width="1152" height="372" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
-  <text x="64" y="76" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Produtos, sistemas e criterio de entrega</text>
-  <text x="64" y="108" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16">Projetos com foco em utilidade real, manutencao, seguranca, clareza operacional e evolucao continua.</text>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <g>
-      <rect x="64" y="144" width="250" height="184" rx="12" fill="#ECFEFF" stroke="#06B6D4"/>
-      <text x="88" y="178" fill="#0E7490" font-size="22" font-weight="800">Seven</text>
-      <text x="88" y="212" fill="#164E63" font-size="15">Linguagem propria .sv com</text>
-      <text x="88" y="234" fill="#164E63" font-size="15">compilador, runtime, docs,</text>
-      <text x="88" y="256" fill="#164E63" font-size="15">biblioteca padrao e identidade.</text>
-      <text x="88" y="294" fill="#0E7490" font-size="14" font-weight="700">github.com/gabriell211/Seven</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 402" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio em destaque</title>
+  <desc id="desc">Painel escuro de quatro projetos com circuitos luminosos e luzes pulsantes: Seven, Star Reader, Aura e Agent-Mps.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080919"/><stop offset=".55" stop-color="#12112d"/><stop offset="1" stop-color="#071020"/></linearGradient>
+    <linearGradient id="stripe"><stop stop-color="#8b5cf6"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <pattern id="mesh" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#a78bfa" stroke-opacity=".065"/></pattern>
+  </defs>
+  <style>
+    .signal{stroke-dasharray:60 45;animation:slide 9s linear infinite}
+    .beacon{animation:glimmer 2.8s ease-in-out infinite}
+    .beacon.two{animation-delay:.65s}.beacon.three{animation-delay:1.3s}.beacon.four{animation-delay:1.95s}
+    .panel{animation:edge 6s ease-in-out infinite alternate}
+    .panel.second{animation-delay:1s}.panel.third{animation-delay:2s}.panel.fourth{animation-delay:3s}
+    @keyframes slide{to{stroke-dashoffset:-420}}
+    @keyframes glimmer{50%{opacity:.26}}
+    @keyframes edge{to{stroke-opacity:.85}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="1200" height="402" rx="21" fill="url(#bg)"/>
+  <rect width="1200" height="402" rx="21" fill="url(#mesh)"/>
+  <rect x="25" y="23" width="1150" height="354" rx="17" fill="#070b1d" fill-opacity=".48" stroke="#685aad" stroke-opacity=".55"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="64" y="77" fill="#f8faff" font-size="31" font-weight="800">PROJECT GALAXY <tspan fill="#67e8f9">// 4 MISSIONS</tspan></text>
+    <text x="65" y="109" fill="#a5add1" font-size="16">Produtos que unem engenharia, automação e necessidades reais.</text>
+  </g>
+  <path class="signal" d="M65 124H1135" stroke="url(#stripe)" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g class="panel" stroke-opacity=".35">
+      <rect x="64" y="151" width="252" height="185" rx="15" fill="#12152e" stroke="#a78bfa" stroke-width="2"/>
+      <path d="M85 173h42M85 173v25" fill="none" stroke="#a78bfa" stroke-width="3"/>
+      <circle class="beacon" cx="285" cy="178" r="6" fill="#a78bfa"/>
+      <text x="86" y="216" fill="#e9ddff" font-weight="800" font-size="25">SEVEN</text>
+      <text x="86" y="243" fill="#c4b5fd" font-size="14" font-weight="700">LANGUAGE DESIGN</text>
+      <text x="86" y="273" fill="#d8ddfa" font-size="14">Linguagem e compilador</text>
+      <text x="86" y="293" fill="#d8ddfa" font-size="14">com ferramentas próprias.</text>
+      <text x="86" y="321" fill="#8e9aba" font-size="12">MODULE 01 / BUILD</text>
     </g>
-    <g>
-      <rect x="342" y="144" width="250" height="184" rx="12" fill="#F0FDF4" stroke="#22C55E"/>
-      <text x="366" y="178" fill="#15803D" font-size="22" font-weight="800">Star Reader</text>
-      <text x="366" y="212" fill="#14532D" font-size="15">PDF desktop local-first</text>
-      <text x="366" y="234" fill="#14532D" font-size="15">com OCR, assinaturas,</text>
-      <text x="366" y="256" fill="#14532D" font-size="15">formularios e revisao.</text>
-      <text x="366" y="294" fill="#15803D" font-size="14" font-weight="700">Ferramenta profissional</text>
+    <g class="panel second" stroke-opacity=".35">
+      <rect x="338" y="151" width="252" height="185" rx="15" fill="#111a2d" stroke="#22d3ee" stroke-width="2"/>
+      <path d="M359 173h42M359 173v25" fill="none" stroke="#22d3ee" stroke-width="3"/>
+      <circle class="beacon two" cx="559" cy="178" r="6" fill="#22d3ee"/>
+      <text x="360" y="216" fill="#c9fcff" font-weight="800" font-size="24">STAR READER</text>
+      <text x="360" y="243" fill="#67e8f9" font-size="14" font-weight="700">DESKTOP / PDF</text>
+      <text x="360" y="273" fill="#d8ddfa" font-size="14">Edição de documentos</text>
+      <text x="360" y="293" fill="#d8ddfa" font-size="14">com foco local-first.</text>
+      <text x="360" y="321" fill="#8e9aba" font-size="12">MODULE 02 / CREATE</text>
     </g>
-    <g>
-      <rect x="620" y="144" width="250" height="184" rx="12" fill="#FFF7ED" stroke="#F97316"/>
-      <text x="644" y="178" fill="#C2410C" font-size="22" font-weight="800">Aura</text>
-      <text x="644" y="212" fill="#7C2D12" font-size="15">ERP MPS para controle,</text>
-      <text x="644" y="234" fill="#7C2D12" font-size="15">gestao de processos e</text>
-      <text x="644" y="256" fill="#7C2D12" font-size="15">rotinas operacionais.</text>
-      <text x="644" y="294" fill="#C2410C" font-size="14" font-weight="700">Sistema de gestao</text>
+    <g class="panel third" stroke-opacity=".35">
+      <rect x="612" y="151" width="252" height="185" rx="15" fill="#181329" stroke="#f472b6" stroke-width="2"/>
+      <path d="M633 173h42M633 173v25" fill="none" stroke="#f472b6" stroke-width="3"/>
+      <circle class="beacon three" cx="833" cy="178" r="6" fill="#f472b6"/>
+      <text x="634" y="216" fill="#ffd7ee" font-weight="800" font-size="25">AURA</text>
+      <text x="634" y="243" fill="#f9a8d4" font-size="14" font-weight="700">BUSINESS OPERATIONS</text>
+      <text x="634" y="273" fill="#d8ddfa" font-size="14">Gestão operacional</text>
+      <text x="634" y="293" fill="#d8ddfa" font-size="14">e fluxos de ERP.</text>
+      <text x="634" y="321" fill="#8e9aba" font-size="12">MODULE 03 / SCALE</text>
     </g>
-    <g>
-      <rect x="898" y="144" width="238" height="184" rx="12" fill="#EFF6FF" stroke="#2563EB"/>
-      <text x="922" y="178" fill="#1D4ED8" font-size="22" font-weight="800">Operacoes</text>
-      <text x="922" y="212" fill="#1E3A8A" font-size="15">Automacao, integracoes,</text>
-      <text x="922" y="234" fill="#1E3A8A" font-size="15">produtos web, atendimento</text>
-      <text x="922" y="256" fill="#1E3A8A" font-size="15">e sistemas empresariais.</text>
-      <text x="922" y="294" fill="#1D4ED8" font-size="14" font-weight="700">Software util em campo</text>
+    <g class="panel fourth" stroke-opacity=".35">
+      <rect x="886" y="151" width="252" height="185" rx="15" fill="#131729" stroke="#7dd3fc" stroke-width="2"/>
+      <path d="M907 173h42M907 173v25" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+      <circle class="beacon four" cx="1107" cy="178" r="6" fill="#7dd3fc"/>
+      <text x="908" y="216" fill="#d3f3ff" font-weight="800" font-size="24">AGENT-MPS</text>
+      <text x="908" y="243" fill="#7dd3fc" font-size="14" font-weight="700">AUTOMATION</text>
+      <text x="908" y="273" fill="#d8ddfa" font-size="14">Integrações e rotinas</text>
+      <text x="908" y="293" fill="#d8ddfa" font-size="14">para operações MPS.</text>
+      <text x="908" y="321" fill="#8e9aba" font-size="12">MODULE 04 / CONNECT</text>
     </g>
   </g>
-  <rect x="64" y="354" width="1072" height="10" rx="5" fill="#0F172A"/>
-  <rect x="64" y="354" width="310" height="10" rx="5" fill="#38BDF8"/>
-  <rect x="374" y="354" width="290" height="10" rx="5" fill="#22C55E"/>
-  <rect x="664" y="354" width="236" height="10" rx="5" fill="#F97316"/>
-  <rect x="900" y="354" width="236" height="10" rx="5" fill="#2563EB"/>
+  <path d="M64 356H1137" stroke="#24304d" stroke-width="6" stroke-linecap="round"/>
+  <path class="signal" d="M64 356H1137" stroke="url(#stripe)" stroke-width="6" stroke-linecap="round"/>
 </svg>
