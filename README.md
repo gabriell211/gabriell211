@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-gabriel.svg" width="100%" alt="Sênior Gabriel Barcelos — Distinguished Engineer. Animação roxa das linguagens C, C++, C#, Python, JavaScript, TypeScript, PHP e Rust até a Seven." />
+  <img src="./assets/banner-gabriel.svg" width="100%" alt=" Gabriel Barcelos — Distinguished Engineer. Animação roxa das linguagens C, C++, C#, Python, JavaScript, TypeScript, PHP e Rust até a Seven." />
 
   <p><strong>Engenharia de software · Arquitetura de sistemas · Infraestrutura · Produtos digitais</strong></p>
 
