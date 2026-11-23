@@ -1,79 +1,98 @@
 <div align="center">
-  <img width="100%" src="./assets/profile-header.svg" alt="Gabriel Barcelos - Software Engineer and Product Builder" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Gabriel Barcelos — perfil futurista com circuitos, efeitos neon e animações" />
+
+  <p>
+    <a href="https://portif-lio-api-server-kappa.vercel.app">Portfólio</a> ·
+    <a href="https://sevenstarstechnology.com.br">Seven Stars Technology</a> ·
+    <a href="https://www.linkedin.com/in/gabriel-barcelos-6a3979407">LinkedIn</a> ·
+    <a href="https://www.instagram.com/g4b_seo">Instagram</a>
+  </p>
+
+  <strong>SOFTWARE ENGINEER • PRODUCT BUILDER • AUTOMATION</strong>
+  <p><sub>Desenvolvendo o que vem depois — com arquitetura, propósito e execução.</sub></p>
+</div>
+
+---
+
+## 01 // IDENTIDADE DIGITAL
+
+~~~text
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                               ║
+║  NAME       Gabriel Barcelos                             ║
+║  USER       @gabriell211                                 ║
+║  ROLE       Software Engineer / Product Builder          ║
+║  FOCUS      Full Stack · Desktop · Automação · Sistemas  ║
+║  APPROACH   Segurança · Performance · Escalabilidade      ║
+╚══════════════════════════════════════════════════════════╝
+~~~
+
+Transformo necessidades reais em **produtos digitais, integrações e sistemas confiáveis**. Atuo da arquitetura à distribuição: da experiência de uso ao backend, da infraestrutura à automação de processos.
+
+Meu foco não é apenas fazer o código funcionar. É construir software que seja **simples de operar, seguro de manter e preparado para crescer**.
+
+## 02 // TECH UNIVERSE
+
+<div align="center">
+  <img src="./assets/stack-map.svg" width="100%" alt="Mapa tecnológico animado: frontend, backend, desktop, dados, infraestrutura e engenharia" />
 </div>
 
 <p align="center">
-  <a href="https://portif-lio-api-server-kappa.vercel.app">Portfolio</a>
-  &nbsp;|&nbsp;
-  <a href="https://sevenstarstechnology.com.br">Seven Stars Technology</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/gabriell211/Seven">Seven Language</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/gabriell211/Seven/blob/main/docs/references.md">Seven References</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-barcelos-6a3979407">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/g4b_seo">Instagram</a>
+  <code>REACT</code> · <code>NEXT.JS</code> · <code>TYPESCRIPT</code> · <code>LARAVEL</code> · <code>RUST</code> · <code>TAURI</code> · <code>POSTGRESQL</code> · <code>CI/CD</code>
 </p>
 
-## Visao Executiva
+**Princípios de engenharia:** Clean Architecture, SOLID, tipagem forte, testes automatizados, observabilidade, controle de acesso, otimização de consultas e interfaces acessíveis.
 
-Sou Gabriel Barcelos, desenvolvedor focado em transformar processos complexos em produtos digitais claros, confiaveis e escalaveis.
-
-Minha entrega combina engenharia de software, visao de negocio e cuidado com a experiencia de uso. Trabalho principalmente com sistemas de gestao, automacao, ferramentas desktop, produtos web e infraestrutura local-first.
-
-```txt
-Foco principal      Sistemas empresariais, automacao e produtos digitais
-Perfil tecnico     Full stack, desktop apps, integracoes e infraestrutura
-Diferencial        Entender o problema de negocio antes de escrever codigo
-```
-
-## Agora
-
-- Evoluindo a **Seven**, uma linguagem de programacao propria com extensao `.sev` e compilador `seven`.
-- Evoluindo o **Star Reader**, um leitor/editor PDF local-first para uso profissional.
-- Construindo sistemas para operacoes reais: atendimento, gestao, vendas, automacao e controle.
-- Transformando processos manuais em produtos digitais mais simples, seguros e sustentaveis.
-
-## Stack Principal
+## 03 // PROJECT GALAXY
 
 <div align="center">
-  <img width="100%" src="./assets/stack-map.svg" alt="Stack principal de Gabriel Barcelos" />
+  <img src="./assets/focus-board.svg" width="100%" alt="Quatro projetos em destaque com painéis futuristas animados" />
 </div>
 
-## Produtos em Destaque
+| Projeto | Missão | Área |
+| :--- | :--- | :--- |
+| **[Seven](https://github.com/gabriell211/Seven)** | Desenvolvimento de uma linguagem própria, compilador, runtime, documentação e ferramentas. | Linguagens &amp; tooling |
+| **[Star Reader](https://github.com/gabriell211/star-reader)** | Leitura e edição profissional de PDF em uma experiência desktop local-first. | Desktop &amp; documentos |
+| **[Aura](https://github.com/gabriell211/Aura)** | Gestão de operações e processos empresariais em ambiente MPS. | ERP &amp; operações |
+| **[Agent-Mps](https://github.com/gabriell211/Agent-Mps)** | Integrações e automações para rotinas de operações MPS. | Automação &amp; integração |
+| **[vertex](https://github.com/gabriell211/vertex)** | Base para construção e evolução de produtos web modernos. | Web &amp; arquitetura |
 
-| Projeto | Papel | Resultado |
-|---|---|---|
-| [Seven](https://github.com/gabriell211/Seven) | Criador da linguagem `.sev` e do compilador `seven` | Fundacao de linguagem, biblioteca padrao, runtime, docs, exemplos e identidade oficial |
-| [Star Reader](https://github.com/gabriell211/star-reader) | Produto desktop local-first para PDF | OCR, assinaturas, formularios, anotacoes, organizacao de paginas e revisao |
-| [Aura](https://github.com/gabriell211/Aura) | Sistema ERP MPS | Controle operacional e gestao de processos |
-| [Agent-Mps](https://github.com/gabriell211/Agent-Mps) | Automacao operacional | Suporte para operacoes MPS e rotinas de produtividade |
-| [vertex](https://github.com/gabriell211/vertex) | Base de produto digital | Estrutura moderna para desenvolvimento web |
+> **Construir para uso real.** Uma interface bonita importa, mas consistência, estabilidade, manutenção e evolução importam tanto quanto.
 
-## Engenharia na Pratica
+## 04 // ENGINEERING PROTOCOL
+
+~~~text
+[01] DISCOVER     → Entender a operação e os problemas reais
+[02] ARCHITECT   → Definir limites, contratos e responsabilidades
+[03] BUILD       → Implementar com legibilidade e segurança
+[04] VALIDATE    → Testes, revisão, build e casos de exceção
+[05] SHIP        → Distribuir com rastreabilidade e controle
+[06] EVOLVE      → Medir, corrigir e melhorar continuamente
+~~~
+
+<details>
+<summary><strong>▸ Explorar minha forma de trabalhar</strong></summary>
+
+- **Backend:** regras de negócio isoladas, APIs previsíveis, autenticação, autorização e consultas eficientes.
+- **Frontend:** componentes acessíveis, estados bem definidos, responsividade e integração consistente.
+- **Desktop & infraestrutura:** distribuição, compatibilidade, segurança operacional e experiência local-first.
+- **Entrega:** versionamento, revisão, CI, testes e cuidado com regressões.
+
+</details>
+
+## 05 // OPEN CHANNEL
 
 <div align="center">
-  <img width="100%" src="./assets/focus-board.svg" alt="Areas de atuacao e criterios de entrega" />
-</div>
+  <p>
+    <a href="https://gabriel-barcelos.help">Website</a> ·
+    <a href="https://sevenstarstechnology.com.br">Empresa</a> ·
+    <a href="https://github.com/gabriell211/Seven">Seven Language</a> ·
+    <a href="https://github.com/gabriell211/Seven/blob/main/docs/references.md">Referências técnicas</a>
+  </p>
 
-## Como Eu Construo
-
-- Entendo o fluxo real do usuario, o gargalo e o custo operacional do problema.
-- Desenho uma solucao simples de operar, com interface clara e regras previsiveis.
-- Entrego codigo organizado, versionado e preparado para evoluir sem retrabalho.
-- Penso em instalacao, seguranca, manutencao, suporte e distribuicao desde cedo.
-
-## Contato
-
-<p align="center">
-  <a href="https://gabriel-barcelos.help">gabriel-barcelos.help</a>
-  &nbsp;|&nbsp;
-  <a href="https://sevenstarstechnology.com.br">sevenstarstechnology.com.br</a>
-  &nbsp;|&nbsp;
   <a href="https://github.com/gabriell211">github.com/gabriell211</a>
-</p>
 
-<div align="center">
-  <img width="100%" src="./assets/profile-footer.svg" alt="Build useful software, ship with care, improve every system" />
+  <img src="./assets/profile-footer.svg" width="100%" alt="Rodapé neon animado: Build the next version of what's possible" />
 </div>
+
+<sub>Visualizações em SVG animado hospedadas neste repositório. A animação respeita a preferência de movimento reduzido do dispositivo.</sub>
